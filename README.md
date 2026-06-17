@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @A10Harsh
-- 👀 I’m interested in python, Web development, java
-- 🌱 I’m currently learning full stack web development
+- 👀 I’m interested in quantum computing
+- 🌱 I’m skilled in data science 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on x(twitter)
+- 📫 How to reach me on linkedin
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Someone: Are you committed??
                 Me : Yes I committed to github. 🤝😂
